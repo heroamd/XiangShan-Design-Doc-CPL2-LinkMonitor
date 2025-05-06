@@ -10,4 +10,7 @@ venv/
 *.lot
 *.tex
 *.html
+*.xy
+*.xy.1
+*.swp
 
